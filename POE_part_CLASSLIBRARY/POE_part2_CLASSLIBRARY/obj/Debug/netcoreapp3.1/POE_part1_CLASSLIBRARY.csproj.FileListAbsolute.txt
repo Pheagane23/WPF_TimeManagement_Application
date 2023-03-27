@@ -1,0 +1,10 @@
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\bin\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.deps.json
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\bin\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.dll
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\bin\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.pdb
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\obj\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.csproj.AssemblyReference.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\obj\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\obj\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.AssemblyInfoInputs.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\obj\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.AssemblyInfo.cs
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\obj\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.csproj.CoreCompileInputs.cache
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\obj\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.dll
+C:\Users\Phea\Desktop\Varsity College\YEAR 2\semester 2\prog 2b\POE_part1_CLASSLIBRARY\POE_part1_CLASSLIBRARY\obj\Debug\netcoreapp3.1\POE_part1_CLASSLIBRARY.pdb
